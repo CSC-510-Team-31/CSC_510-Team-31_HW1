@@ -1,6 +1,5 @@
-import math
 
-class Calculator(self):
+class Calculator():
 	def __init__(self):
 		pass
 	def add(self,a,b):
@@ -9,7 +8,7 @@ class Calculator(self):
 		return a-b
 	def mul(self,a,b):
 		return a*b
-	def div(a,b):
+	def div(self,a,b):
 		return a/b
 	def pow(self,a,b):
 		return a**b
