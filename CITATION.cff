@@ -1,0 +1,28 @@
+
+cff-version: 1.2.0
+title: 'Basic Calculator '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Vishal '
+    name-particle: Veera
+    family-names: Reddy
+  - given-names: Neeloy
+    family-names: Gomes
+  - given-names: Tyler
+    family-names: Craine
+  - given-names: Abhimanyu
+    family-names: Bellam
+  - given-names: Abhishek
+    family-names: Gupta
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.5542332
+abstract: 'This code gives you basic calculator functions. '
+keywords:
+  - calculator
+  - addition
+  - multiplication
+license: MIT
