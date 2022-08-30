@@ -19,7 +19,7 @@ authors:
     family-names: Gupta
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.5542332
+    value: 10.5281/zenodo.7033434
 abstract: 'This code gives you basic calculator functions. '
 keywords:
   - calculator
