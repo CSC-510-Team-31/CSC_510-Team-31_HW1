@@ -1,6 +1,6 @@
 # test all functions
 
-from calculator import Calculator
+from src import Calculator
 
 class TestCalculator():
     def test_calculator(self):

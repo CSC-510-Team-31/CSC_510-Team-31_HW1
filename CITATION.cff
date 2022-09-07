@@ -1,6 +1,6 @@
 
 cff-version: 1.2.0
-title: 'Basic Calculator '
+title: 'Basic Calculator'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -20,9 +20,11 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.7033434
-abstract: 'This code gives you basic calculator functions. '
+abstract: 'This code gives you basic calculator functions.'
 keywords:
   - calculator
   - addition
   - multiplication
+  - division
+  - exponents
 license: MIT
