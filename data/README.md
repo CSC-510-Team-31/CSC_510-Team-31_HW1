@@ -1,0 +1,2 @@
+Contained within this directory are all the input files needed to run the program and/or the tests.
+Since this is a simple calculator app, no input files are needed, but one could optionally pipe some input expressions here for the program to parse and calculate.
